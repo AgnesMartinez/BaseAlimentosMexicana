@@ -1,7 +1,7 @@
-# BaseAlimentosMexicana
+# Base de Alimentos Mexicanos
  Base de datos sobre alimentos mexicanos
 
-Incluye 112,040 alimentos variados incluido marcas comerciales conocidas
+Incluye 112,040 alimentos variados dividos en grupos, cada alimento incluye metadata sobre marca comerical, informacion nutrimental y aporte energetico.
 
 El contenido esta dividido en los siguientes grupos alimentarios:
 
